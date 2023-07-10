@@ -1,0 +1,2 @@
+#!/bin/bash
+echho "ls -ls" > ls_cwd_content
